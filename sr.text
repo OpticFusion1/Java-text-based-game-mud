@@ -1,0 +1,9 @@
+Room 1246;X;Hallway1;X;X;False;False;False;False;null
+Room 1245;X;Hallway2;X;X;False;False;False;False;null
+Room 1212;X;Hallway3;X;X;False;False;False;False;null
+Room 1211;X;X;X;Hallway1;False;False;False;False;null
+Skrubben;X;X;X;Hallway2;False;False;False;False;null
+Room 1213;X;X;X;Hallway3;False;False;False;False;null
+Hallway1;X;Room 1211;Hallway2;Room 1245;False;False;False;False;null
+Hallway2;Hallway1;Skrubben;Hallway3;Room 1245;False;False;False;False;null
+Hallway3;Hallway2;Room 1213;X;Room 1212;False;False;False;False;null
